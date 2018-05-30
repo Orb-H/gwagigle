@@ -97,7 +97,7 @@ number of room * (number of stair + 1) 줄 필요
 
 ...
 
-### totlaRoomToLibWhenBusy
+### totalRoomToLibWhenBusy
 #### 3차 계산 output
 
 {number of room}
