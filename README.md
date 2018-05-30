@@ -5,8 +5,8 @@
 2. 개발 언어: C++
 
 ## 파일 형식
-각 층마다 floorN.txt 형식으로 저장(확장자 불필요)
-### floorN.txt의 형식
+각 층마다 floor{N}.txt 형식으로 저장(확장자 불필요)
+### floor{N}.txt의 형식
 {width} {height}
 
 num+" "+num+" "+... 형식으로 지정
