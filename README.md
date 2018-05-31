@@ -1,13 +1,13 @@
 # 과기글 repo
 
 ## 진행 정도
-[ ] floorN.txt
-[ ] roomWithStair.txt
-[ ] stairWithDoor.txt
-[ ] roomAtFloor1
-[ ] totalRoomShortCut
-[ ] totalRoomToLibWhenIdle
-[ ] totalRoomToLibWhenBusy
+- [ ] floorN.txt
+- [ ] roomWithStair.txt
+- [ ] stairWithDoor.txt
+- [ ] roomAtFloor1
+- [ ] totalRoomShortCut
+- [ ] totalRoomToLibWhenIdle
+- [ ] totalRoomToLibWhenBusy
 
 ## 파일 형식
 각 층마다 floor{N}.txt 형식으로 저장(확장자 불필요)
