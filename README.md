@@ -1,7 +1,7 @@
 # 과기글 repo
 
 ## 진행 정도
-- [ ] floorN.txt
+- [x] floorN.txt
 - [ ] roomWithStair.txt
 - [ ] stairWithDoor.txt
 - [ ] roomAtFloor1
